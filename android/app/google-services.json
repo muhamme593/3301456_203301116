@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829776723123",
+    "project_id": "udemynetwork-3224b",
+    "storage_bucket": "udemynetwork-3224b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829776723123:android:ba35fcf4b98c397813c4c6",
+        "android_client_info": {
+          "package_name": "com.rimmonetwork.udemyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829776723123-onjmubeofog8et8stt20r31n1f5b0e28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq2Mfwaeha8DZTvZBfAO6F9HT-yFmNYz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829776723123-onjmubeofog8et8stt20r31n1f5b0e28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
